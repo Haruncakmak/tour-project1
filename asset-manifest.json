@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tour-project1/static/css/main.a600df7d.chunk.css",
+    "main.js": "/tour-project1/static/js/main.cf7de63a.chunk.js",
+    "main.js.map": "/tour-project1/static/js/main.cf7de63a.chunk.js.map",
+    "runtime-main.js": "/tour-project1/static/js/runtime-main.5b6e7b5a.js",
+    "runtime-main.js.map": "/tour-project1/static/js/runtime-main.5b6e7b5a.js.map",
+    "static/js/2.5c85f606.chunk.js": "/tour-project1/static/js/2.5c85f606.chunk.js",
+    "static/js/2.5c85f606.chunk.js.map": "/tour-project1/static/js/2.5c85f606.chunk.js.map",
+    "static/js/3.9dbd2367.chunk.js": "/tour-project1/static/js/3.9dbd2367.chunk.js",
+    "static/js/3.9dbd2367.chunk.js.map": "/tour-project1/static/js/3.9dbd2367.chunk.js.map",
+    "index.html": "/tour-project1/index.html",
+    "static/css/main.a600df7d.chunk.css.map": "/tour-project1/static/css/main.a600df7d.chunk.css.map",
+    "static/js/2.5c85f606.chunk.js.LICENSE.txt": "/tour-project1/static/js/2.5c85f606.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b6e7b5a.js",
+    "static/js/2.5c85f606.chunk.js",
+    "static/css/main.a600df7d.chunk.css",
+    "static/js/main.cf7de63a.chunk.js"
+  ]
+}
